@@ -1,0 +1,9 @@
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\bin\Debug\HotelAssignmentWCF.dll.config
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\bin\Debug\HotelAssignmentWCF.dll
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\bin\Debug\HotelAssignmentWCF.pdb
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\bin\Debug\Newtonsoft.Json.dll
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\bin\Debug\Newtonsoft.Json.xml
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\obj\Debug\HotelAssignmentWCF.csproj.CoreCompileInputs.cache
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\obj\Debug\HotelAssignmentWCF.csproj.CopyComplete
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\obj\Debug\HotelAssignmentWCF.dll
+c:\users\mmehndiratta\source\repos\HotelAssignmentWCF\HotelAssignmentWCF\obj\Debug\HotelAssignmentWCF.pdb
